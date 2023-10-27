@@ -1,7 +1,5 @@
 # RallyApiProject
 
-# Rally API Test
-
 A simple proof of concept project utilizing the Rally API to retrieve project information.
 
 ## Installation
